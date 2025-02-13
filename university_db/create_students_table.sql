@@ -8,3 +8,4 @@ CREATE TABLE `Students` (
    `LastName` VARCHAR(50) NOT NULL,
    `EnrollmentDate` DATE
 );
+

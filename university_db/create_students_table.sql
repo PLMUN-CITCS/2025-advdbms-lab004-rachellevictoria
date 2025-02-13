@@ -6,5 +6,6 @@ CREATE TABLE `Students` (
    -- For other databases (e.g., PostgreSQL, SQL Server) you might use SERIAL or IDENTITY
    `FirstName` VARCHAR(50) NOT NULL,
    `LastName` VARCHAR(50) NOT NULL,
-   `EnrollmentDate` DATE
+   `EnrollmentDate` DATE 
 );
+
